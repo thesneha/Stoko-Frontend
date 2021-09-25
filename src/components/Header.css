@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color:#52ada3;
+    color: #AD525C;
+    text-align: center;
+    margin-top: 0%;
+    padding: 0%;
+}
+.header h1{
+    
+}
+.header button{
+    background-color: #AD525C;
+    color: aliceblue;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    box-sizing: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 1em;
+    text-transform: capitalize;
+}

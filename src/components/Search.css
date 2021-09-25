@@ -1,0 +1,15 @@
+.search{
+    display: flex;
+    margin: 30px;
+    border-bottom: 2px solid #52ada3;
+    border-radius: 4px;
+    max-width: fit-content;
+}
+.search input{
+    outline: none ;
+    border:0 none;
+}
+.search .icon{
+    color: #AD525C;
+    cursor: pointer;
+}
